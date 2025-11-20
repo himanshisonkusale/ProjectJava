@@ -244,25 +244,25 @@ assert regNo != null && !regNo.isEmpty() : "Registration number cannot be empty"
 
 ---
 
-## Screenshots
+## Diagrams
 
 ### Main Menu Interface
-![Main Menu](MainMenuInterface.png)
+![Main Menu](Diagrams/MainMenuInterface.png)
 
 ### Student Management
-![Student Management](StudentManagement.png)
+![Student Management](Diagrams/StudentManagement.png)
 
 ### Enrollment Process
-![Enrollment](Enrollment.png)
+![Enrollment](Diagrams/Enrollment.png)
 
 ### Transcript Generation
-![Transcript](Trasncriptreport.png)
+![Transcript](Diagrams/Trasncriptreport.png)
 
 ---
 
 ## Repository
 
-**GitHub**: [https://github.com/himanshisonkusale/JAVA_PROJECT](https://github.com/sachijhaa/JAVA_PROJECT)  
+**GitHub**: https://github.com/himanshisonkusale/ProjectJava.git  
 **Documentation**: See [statement.md](statement.md) for complete problem statement, scope, and target users
 
 ---
