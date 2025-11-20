@@ -247,16 +247,16 @@ assert regNo != null && !regNo.isEmpty() : "Registration number cannot be empty"
 ## Screenshots
 
 ### Main Menu Interface
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](Main Menu Interface.png)
 
 ### Student Management
-![Student Management](screenshots/student-management.png)
+![Student Management](Student Management.png)
 
 ### Enrollment Process
-![Enrollment](screenshots/enrollment-process.png)
+![Enrollment](Enrollment.png)
 
 ### Transcript Generation
-![Transcript](screenshots/transcript-generation.png)
+![Transcript](Trasncript report.png)
 
 ---
 
