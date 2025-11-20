@@ -113,7 +113,7 @@ For detailed problem statement, scope, and target users, see [statement.md](stat
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/sachijhaa/JAVA_PROJECT.git
+git clone https://github.com/himanshisonkusale/ProjectJava.git
 cd JAVA_PROJECT
 
 # Compile the project
@@ -247,16 +247,16 @@ assert regNo != null && !regNo.isEmpty() : "Registration number cannot be empty"
 ## Screenshots
 
 ### Main Menu Interface
-![Main Menu](Main Menu Interface.png)
+![Main Menu](MainMenuInterface.png)
 
 ### Student Management
-![Student Management](Student Management.png)
+![Student Management](StudentManagement.png)
 
 ### Enrollment Process
 ![Enrollment](Enrollment.png)
 
 ### Transcript Generation
-![Transcript](Trasncript report.png)
+![Transcript](Trasncriptreport.png)
 
 ---
 
