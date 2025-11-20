@@ -182,7 +182,7 @@ JAVA_PROJECT/
 │   ├── backup_*/           # Automated backup folders
 │   ├── courses_export.csv
 │   └── students_export.csv
-├── Screenshots/            # Application screenshots
+├── Diagrams/            # Application Diagrams
 ├── test-data/             # Sample CSV files
 ├── .gitignore
 ├── img.png                # Installation screenshots
